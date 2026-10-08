@@ -5,16 +5,17 @@ A simple Stack data structure implementation using the C programming language.
 
 Files:
 
-main.c — Main program
+-main.c — Main program
 
-stack.c — Stack implementation
+-stack.c — Stack implementation
 
-stack.h — Stack function declarations
+-stack.h — Stack function declarations
+
 
 Features:
 
-Push
+-Push
 
-Pop
+-Pop
 
-Peek
+-Peek
