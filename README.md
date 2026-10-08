@@ -19,3 +19,7 @@ Features:
 -Pop
 
 -Peek
+
+-is_empty
+
+-free_stack
