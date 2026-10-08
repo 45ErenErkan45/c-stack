@@ -10,3 +10,11 @@ main.c — Main program
 stack.c — Stack implementation
 
 stack.h — Stack function declarations
+
+Features:
+
+Push
+
+Pop
+
+Peek
