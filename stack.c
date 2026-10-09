@@ -36,9 +36,9 @@ void* peek(Stack* stack) {
 
 int is_empty(Stack* stack) {
     if(stack->top == 0){
-    return 0;
-    }
     return 1;
+    }
+    return 0;
 }
 
 void free_stack(Stack* stack) {
@@ -50,4 +50,3 @@ void free_stack(Stack* stack) {
         free(stack);
     }
 }
-
