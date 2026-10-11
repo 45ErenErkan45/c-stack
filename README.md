@@ -23,3 +23,5 @@ Features:
 -is_empty
 
 -free_stack
+
+-view_stack
