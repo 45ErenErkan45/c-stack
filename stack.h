@@ -13,6 +13,5 @@ typedef struct {
  void* peek(Stack* stack);
  int is_empty(Stack* stack);
  void free_stack(Stack* stack);
-
+ void view_stack(Stack* stack);	
 #endif
-
