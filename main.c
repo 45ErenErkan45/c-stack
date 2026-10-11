@@ -78,7 +78,7 @@ int main(void) {
     	}
     	else{
     		i--;
-    		printf("%d not a command\n\n", &command);
+    		printf("enter a valid command\n\n");
 		}
     	
 	}
